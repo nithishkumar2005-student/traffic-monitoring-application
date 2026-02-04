@@ -63,4 +63,9 @@ The system highlights:
 ---
 
 ## 📂 Project Structure
+traffic_app/
+├── app.py
+├── gps_data.csv
+├── requirements.txt
+├── README.md
 
