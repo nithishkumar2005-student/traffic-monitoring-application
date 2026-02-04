@@ -69,3 +69,13 @@ traffic_app/
 ├── requirements.txt
 ├── README.md
 
+To run this project 
+1. python -m venv venv
+venv\Scripts\activate
+
+2.pip install streamlit pandas folium streamlit-folium scikit-learn
+
+3.streamlit run app.py
+
+
+
